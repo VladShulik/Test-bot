@@ -90,5 +90,3 @@ git add README.md
 git commit -m "Add nice README"
 git push
 ````
-
-4. Открой репозиторий — он будет выглядеть красиво с бейджами и форматированием.
