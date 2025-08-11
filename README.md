@@ -5,7 +5,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Discord.py](https://img.shields.io/badge/discord.py-2.4.0-blueviolet?logo=discord&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 Простой бот для Discord, написанный на **Python** с использованием библиотеки [discord.py](https://discordpy.readthedocs.io/).
 
@@ -79,14 +78,3 @@ python bot.py
 
 ````
 
----
-
-### Как залить `README.md` в GitHub:
-1. Создай файл `README.md` в папке с ботом.  
-2. Вставь туда этот текст.  
-3. В терминале в папке проекта выполни:
-```bash
-git add README.md
-git commit -m "Add nice README"
-git push
-````
