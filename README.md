@@ -1,9 +1,6 @@
-Окей, вот тебе полный красивый `README.md` с рабочими бейджами и оформлением.
-Просто скопируй этот текст в файл `README.md` в корне проекта и запушь на GitHub.
 
----
 
-````markdown
+```markdown
 # 🤖 Discord Test Bot (Python)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
@@ -28,7 +25,7 @@
 ```bash
 git clone https://github.com/VladShulik/Test-bot.git
 cd Test-bot
-````
+```
 
 ### 2️⃣ Устанавливаем зависимости
 
