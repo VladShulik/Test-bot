@@ -68,7 +68,8 @@ python bot.py
 
 ## 📷 Скриншоты
 
-*(тут можно вставить скрин работы бота)*
+<img width="690" height="334" alt="image" src="https://github.com/user-attachments/assets/dbafdfbb-c8a5-419d-8812-056dc67c0bb7" />
+
 
 ---
 
